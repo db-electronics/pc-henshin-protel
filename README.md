@@ -1,5 +1,5 @@
 # Copyright and Disclaimer
-Copyright: René Richard
+Copyright: René Richard 2017
 
 This documentation describes Open Hardware and is licensed under the
 CERN OHL v. 1.2.
