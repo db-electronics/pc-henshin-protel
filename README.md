@@ -15,3 +15,6 @@ conditions
 This protel project is a universal modless region convert for Turbografx-16 and PC Engine. The firmware required to run this hardware is available at the following repo:
 
 https://github.com/db-electronics/pc-henshin
+
+# Fabrication Notes
+PCB thickness must be 2.3mm
